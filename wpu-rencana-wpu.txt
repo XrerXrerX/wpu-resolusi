@@ -1,5 +1,7 @@
 tuntaskan javascript 
+  *laravel
   *es6 syntax javascript baru
   *framework javascript
-review ulang tentang javascript 
-fokus dalam 1 hal 
+fokus dalam 1 hal
+menambahakn angular 
+menambahkan react
